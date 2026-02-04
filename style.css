@@ -1,0 +1,30 @@
+.text,title{color: white; font-family: "Pixelify Sans", sans-serif; }
+
+p:hover{
+    text-decoration: underline green;
+    text-decoration-thickness: 5px;
+}
+a:link
+{
+    color: bisque;
+}
+a:visited
+{
+    color: green;
+}
+img
+{
+    border: 1px solid white;
+}
+
+img:hover
+{
+    border: 3px solid green;
+}
+
+a:hover
+{
+    color: rgb(173, 201, 176);
+}
+
+body{background-color: black; }
