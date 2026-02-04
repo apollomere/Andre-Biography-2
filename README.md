@@ -30,6 +30,5 @@ More intergrated menus are planned to be implemented in the future.
 -Had problems with integrating flex box with the column divider, figured out it was because @media access specification kept on overriding the default .flex-container style.
 //Having trouble centering navigation bar, may need to find another solution, as text-align does not seems to truly center it.
 
-```md
+
 ![How it should look like when ran](assets/images/ajhtmlscreenshot1.png)
-```
